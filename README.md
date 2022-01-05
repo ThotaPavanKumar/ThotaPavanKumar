@@ -34,7 +34,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-<!-- ![Pavans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PavanKumarThota&hide_border=true&theme=redical) -->
+![Pavans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThotaPavanKumar&hide_border=true&theme=redical)
 
 ---
 
@@ -77,13 +77,13 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PavanKumarThota&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanKumarThota&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ThotaPavanKumar&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThotaPavanKumar&hide_border=true&theme=radical" />
 </p>
 
 ---
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PavanKumarThota}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThotaPavanKumar}/count.svg" /></p> 
 <br></div>
