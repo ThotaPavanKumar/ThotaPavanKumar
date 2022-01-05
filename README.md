@@ -1,7 +1,7 @@
 # Hey, I am Pavan! Great to see you here! <img src="./wave.gif" width="30px">
 
 
-I am Pavan Kumart, i have completed my Bachelor's of engineering in Computer Science from [Osmania University](https://www.osmania.ac.in/). I am a  aspriring full stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner. When I am not coding, you'll find me cooking in the kitchen or playing the video games .
+I am Pavan Kumar, I am an aspriring Full Stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner.
 
 Find out more about me & feel free to connect with me here:
 
@@ -9,25 +9,25 @@ Find out more about me & feel free to connect with me here:
 	<a href="www.linkedin.com/in/pavan-kumar-thota1">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/raman_boddula">
+<!-- 	<a href="https://twitter.com/raman_boddula">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://www.instagram.com/raman_chinna_/">
+	</a> -->
+<!-- 	<a href="https://www.instagram.com/raman_chinna_/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a>
-	<a href="https://dev.to/raman_boddula">
+	</a> -->
+<!-- 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-	<a href="https://dev.to/raman_boddula">
+	</a> -->
+<!-- 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-	</a>
+	</a> -->
         <a href="#">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="#">
 		 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
-        <a href="mailtoo:raman_rc001@gmail.com">
+        <a href="mailtoo:pavankumarthota1@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
