@@ -21,15 +21,18 @@ Find out more about me & feel free to connect with me here:
 <!-- 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a> -->
-        <a href="#">
+        <a href="https://pavan-portfolio-liard.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="#">
+<!-- 	<a href="#">
 		 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-	</a>
-        <a href="mailtoo:pavankumarthota1@gmail.com">
+	</a> -->
+        <a href="mailto:pavankumarthota1@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+<!-- 	<a href="mailto:wattamwargaj@gmail.com"><img src="/.github/icons/email.svg" width="48">
+	</a> -->
+
 </p>
 
 ---
