@@ -36,10 +36,6 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Pavans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThotaPavanKumar&hide_border=true&theme=redical)
-
----
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
